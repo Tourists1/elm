@@ -2,9 +2,9 @@
 
 # 拉库
 ## 国内
-> ql repo https://mirror.ghproxy.com/https://github.com/yupluse/elm.git
+> ql repo https://mirror.ghproxy.com/https://github.com/Tourists1/elm.git
 
 ## 国外
-> ql repo https://github.com/linok55/elm.git
+> ql repo https://github.com/Tourists1/elm.git
 >
 
